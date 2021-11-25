@@ -26,6 +26,6 @@ print("")
 print("========================\nPrepared by:")
 print("Ferrer, Vincent Russell \nMataga, Carl Jeric \nOlidana, Ma.Donna Rose\n4ITG")
 
-# Backlog
+# Backlog :00
 # Develop GUI for this Python code using a toolkit to make the application more appealing to more common users
 # Allow GUI to save information from past entries of IP addresses, both addresses detected by the API and user-inputted addresses
