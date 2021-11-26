@@ -6,11 +6,17 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Upload Python Package
+name: Poyo
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+     - main
+     - develop
+  pull_request:
+    branches:
+     - develop
+    
 
 jobs:
   deploy:
