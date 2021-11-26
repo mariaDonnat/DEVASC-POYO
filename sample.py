@@ -8,7 +8,7 @@ def yesorno(root):
     root.disp_tf = Entry(
     ws, 
     width=38,
-    font=('Arial', 13)
+    font=('Arial', 14)
     )
     root.disp_tf.pack()
     submitbtn = Button(
